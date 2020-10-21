@@ -1,0 +1,10 @@
+2020-10-20 16:27:14,893 WARNING root  "Warning !!!, One or more suspicious transaction found related to existing customer, please check below for Account details !" 
+2020-10-20 16:27:14,895 WARNING root  "Warning!!, One or more suspicious transaction found related to new customer, please check below for Account details !" 
+2020-10-20 16:27:14,897 INFO root  "INFO : One of the transaction is completed successfuly and its clean !" 
+2020-10-20 16:27:14,899 WARNING root  "Warning !!!, One or more suspicious transaction found related to existing customer, please check below for Account details !" 
+2020-10-20 16:27:14,901 WARNING root  "Warning!!, One or more suspicious transaction found related to new customer, please check below for Account details !" 
+2020-10-20 16:27:14,925 INFO root  "INFO : One of the transaction is completed successfuly and its clean !" 
+2020-10-20 16:27:14,927 WARNING root  "Warning!!, One or more suspicious transaction found related to new customer, please check below for Account details !" 
+2020-10-20 16:27:14,927 INFO root The accounts pertaining to suspicious transactions are [105518525, 111111111, 345995999, 444444444, 999999999] 
+2020-10-20 16:50:49,738 DEBUG matplotlib.pyplot Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2020-10-20 16:55:02,781 DEBUG matplotlib.pyplot Loaded backend module://ipykernel.pylab.backend_inline version unknown.
